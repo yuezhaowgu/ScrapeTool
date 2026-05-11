@@ -1,0 +1,2236 @@
+{
+  "estimation_rates": {
+    "words_per_minute": 250,
+    "minutes_per_interactive": 5
+  },
+  "course_totals": {
+    "pages_scraped": 142,
+    "html_word_count": 132707,
+    "video_count": 74,
+    "video_duration_seconds": 41273,
+    "video_duration_minutes": 687.88,
+    "video_duration_hours": 11.46,
+    "interactive_count": 146,
+    "estimated_minutes": 1949,
+    "estimated_hours": 32.48
+  },
+  "video_sources": {
+    "vimeo": 26,
+    "youtube": 48
+  },
+  "interactive_types": {
+    "lti_consumer": 18,
+    "embedded_iframe": 30,
+    "problem": 93,
+    "ibl-wgu-performance-xblock": 3,
+    "likert": 1,
+    "split_test": 1
+  },
+  "videos_needing_manual_lookup": [],
+  "pages": [
+    {
+      "page": 1,
+      "title": "Welcome",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@f10b002fdc6c41b2afa2e1139d6b2f9c",
+      "html_word_count": 276,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 1
+    },
+    {
+      "page": 2,
+      "title": "Syllabus and Documents",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@18707c3ee424440882805979c2300c6b",
+      "html_word_count": 668,
+      "video_count": 1,
+      "video_duration_seconds": 146,
+      "video_duration_minutes": 2.43,
+      "interactive_count": 3,
+      "estimated_minutes": 20
+    },
+    {
+      "page": 3,
+      "title": "Meet the Team",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@8db371d62f3b4d128d45d21aab371875",
+      "html_word_count": 6,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 4,
+      "title": "Course Connect",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@d57d745e63a049bcab0eb1fdaf3695cb",
+      "html_word_count": 0,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 5,
+      "title": "Help Center",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@df96ac41395d4f43a747fac0cbb87bde",
+      "html_word_count": 6,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 6,
+      "title": "American Politics Completion Guides",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@3c78bf0e11f24785adc2513b916c39fa",
+      "html_word_count": 192,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 1
+    },
+    {
+      "page": 7,
+      "title": "Module Overview",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@20d7416e8e8f44c49713b55a12bfd09e",
+      "html_word_count": 429,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 7
+    },
+    {
+      "page": 8,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@e24f2867f9d841be82bd95068d6d69ae",
+      "html_word_count": 345,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 1
+    },
+    {
+      "page": 9,
+      "title": "Age of Enlightenment",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@412b2b7c31df4c8c959c21039af44907",
+      "html_word_count": 1463,
+      "video_count": 1,
+      "video_duration_seconds": 105,
+      "video_duration_minutes": 1.75,
+      "interactive_count": 1,
+      "estimated_minutes": 13
+    },
+    {
+      "page": 10,
+      "title": "The Social Contract",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@95b7540bce984bfda5bca695eb62b73b",
+      "html_word_count": 1656,
+      "video_count": 2,
+      "video_duration_seconds": 887,
+      "video_duration_minutes": 14.78,
+      "interactive_count": 1,
+      "estimated_minutes": 26
+    },
+    {
+      "page": 11,
+      "title": "The State of Nature",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@ee7ad731ea4045d5b5d1472270afb84b",
+      "html_word_count": 627,
+      "video_count": 1,
+      "video_duration_seconds": 323,
+      "video_duration_minutes": 5.38,
+      "interactive_count": 1,
+      "estimated_minutes": 13
+    },
+    {
+      "page": 12,
+      "title": "Founding Documents",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@ada21ad785dd44ee8109fb07c58cbce9",
+      "html_word_count": 1925,
+      "video_count": 1,
+      "video_duration_seconds": 183,
+      "video_duration_minutes": 3.05,
+      "interactive_count": 1,
+      "estimated_minutes": 16
+    },
+    {
+      "page": 13,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@20ef3516302e4394a556121d60fe47ad",
+      "html_word_count": 415,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 7
+    },
+    {
+      "page": 14,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@2031d0a01c8c470d8b25822962810c43",
+      "html_word_count": 347,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 1
+    },
+    {
+      "page": 15,
+      "title": "The Origins",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@832c1caeff534b7e9f7716f1231559cd",
+      "html_word_count": 448,
+      "video_count": 1,
+      "video_duration_seconds": 570,
+      "video_duration_minutes": 9.5,
+      "interactive_count": 1,
+      "estimated_minutes": 16
+    },
+    {
+      "page": 16,
+      "title": "Purpose",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@2383599b2e3943c490c8c44fbadd505e",
+      "html_word_count": 764,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 13
+    },
+    {
+      "page": 17,
+      "title": "Weaknesses",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@2112f524d23e45c3be9b083df5e88d0b",
+      "html_word_count": 1101,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 14
+    },
+    {
+      "page": 18,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@5c7ffd70c32d450e871e6341cfb4d599",
+      "html_word_count": 248,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 19,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@420424175a614623a262c37f4b36e9d1",
+      "html_word_count": 577,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 2
+    },
+    {
+      "page": 20,
+      "title": "Debate and Compromise",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@23e27a1d4102404ba16f219fa2e20e66",
+      "html_word_count": 2097,
+      "video_count": 3,
+      "video_duration_seconds": 1748,
+      "video_duration_minutes": 29.13,
+      "interactive_count": 1,
+      "estimated_minutes": 43
+    },
+    {
+      "page": 21,
+      "title": "Slavery and Freedom",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@33e9b0b9b81444d3b4cd426dd6a22627",
+      "html_word_count": 895,
+      "video_count": 1,
+      "video_duration_seconds": 625,
+      "video_duration_minutes": 10.42,
+      "interactive_count": 1,
+      "estimated_minutes": 19
+    },
+    {
+      "page": 22,
+      "title": "Powers",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@cb22590a2607467b9c2baf299504508b",
+      "html_word_count": 1039,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 9
+    },
+    {
+      "page": 23,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@1fbf80aecf9b441f9bc229a60f0b2b8b",
+      "html_word_count": 156,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 24,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@d95afafc46aa447788463fd3834e8647",
+      "html_word_count": 602,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 2
+    },
+    {
+      "page": 25,
+      "title": "Differing Views",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@3dd07430328b4e91bb515773b8483cde",
+      "html_word_count": 1827,
+      "video_count": 1,
+      "video_duration_seconds": 285,
+      "video_duration_minutes": 4.75,
+      "interactive_count": 1,
+      "estimated_minutes": 17
+    },
+    {
+      "page": 26,
+      "title": "Results",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@4c45645bcf3740d38ff83e531cfbe145",
+      "html_word_count": 1578,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 27,
+      "title": "Federalist Essays 10 and 51",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@124c7c8d69504ad68f5562404b6d9b02",
+      "html_word_count": 676,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 8
+    },
+    {
+      "page": 28,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@fbb356c560274eb89e3df884559bb57a",
+      "html_word_count": 272,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 29,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@e633877a0a09490ea8ab7c7aea4c30c7",
+      "html_word_count": 260,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 1
+    },
+    {
+      "page": 30,
+      "title": "Legislative Branch",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@ab5a6c8ae48547cdb73661ee872750ed",
+      "html_word_count": 889,
+      "video_count": 2,
+      "video_duration_seconds": 741,
+      "video_duration_minutes": 12.35,
+      "interactive_count": 1,
+      "estimated_minutes": 21
+    },
+    {
+      "page": 31,
+      "title": "Executive Branch",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@13374e3f50aa43ae9b6154c7e6093808",
+      "html_word_count": 1352,
+      "video_count": 1,
+      "video_duration_seconds": 287,
+      "video_duration_minutes": 4.78,
+      "interactive_count": 1,
+      "estimated_minutes": 15
+    },
+    {
+      "page": 32,
+      "title": "Judicial Branch",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@266053298c2a492588e745a24a75f0d4",
+      "html_word_count": 970,
+      "video_count": 3,
+      "video_duration_seconds": 1180,
+      "video_duration_minutes": 19.67,
+      "interactive_count": 1,
+      "estimated_minutes": 29
+    },
+    {
+      "page": 33,
+      "title": "The Federalist System",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@68c3e383b5b549d5aa1c5ad6799fb329",
+      "html_word_count": 2736,
+      "video_count": 1,
+      "video_duration_seconds": 554,
+      "video_duration_minutes": 9.23,
+      "interactive_count": 1,
+      "estimated_minutes": 25
+    },
+    {
+      "page": 34,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@61c762e8c8e045e08f212eadda6135de",
+      "html_word_count": 396,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 7
+    },
+    {
+      "page": 35,
+      "title": "Review",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@3ad9d4c8938e4db79d7add8b3cae8583",
+      "html_word_count": 921,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 4
+    },
+    {
+      "page": 36,
+      "title": "Practice Quiz",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@81e63980f8ca4ca0abbf8fe60895b81a",
+      "html_word_count": 61,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 37,
+      "title": "Way to Go!",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@4cdf341b97804f2b8adca6e84fa45fc1",
+      "html_word_count": 26,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 38,
+      "title": "Module Overview",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@0b8ab8f5832540de86e33e40c8e9eb67",
+      "html_word_count": 227,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 39,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@58e603f4ecee44408c06ff216f1ade7f",
+      "html_word_count": 590,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 2
+    },
+    {
+      "page": 40,
+      "title": "Powers",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@86fd5a36262540218959fa774462c755",
+      "html_word_count": 3289,
+      "video_count": 2,
+      "video_duration_seconds": 1477,
+      "video_duration_minutes": 24.62,
+      "interactive_count": 1,
+      "estimated_minutes": 43
+    },
+    {
+      "page": 41,
+      "title": "Process",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@05b8ffbebc65435abb44129da9fbc64f",
+      "html_word_count": 2032,
+      "video_count": 2,
+      "video_duration_seconds": 1649,
+      "video_duration_minutes": 27.48,
+      "interactive_count": 1,
+      "estimated_minutes": 41
+    },
+    {
+      "page": 42,
+      "title": "Bicameralism",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@6fa7f897c95645b98eb1b0556ff535c7",
+      "html_word_count": 2090,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 13
+    },
+    {
+      "page": 43,
+      "title": "Drawing Districts",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@54e6b414fc154b028f7d990f82be86ea",
+      "html_word_count": 1812,
+      "video_count": 2,
+      "video_duration_seconds": 1235,
+      "video_duration_minutes": 20.58,
+      "interactive_count": 1,
+      "estimated_minutes": 33
+    },
+    {
+      "page": 44,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@99476c389c3a4390828e2cacb2223613",
+      "html_word_count": 359,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 45,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@6bca33fd25b34e1c918c47f5071549f7",
+      "html_word_count": 190,
+      "video_count": 1,
+      "video_duration_seconds": 1471,
+      "video_duration_minutes": 24.52,
+      "interactive_count": 0,
+      "estimated_minutes": 25
+    },
+    {
+      "page": 46,
+      "title": "The Presidency",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@e39a40eca8954510a40709e5f8e4e332",
+      "html_word_count": 2564,
+      "video_count": 1,
+      "video_duration_seconds": 348,
+      "video_duration_minutes": 5.8,
+      "interactive_count": 1,
+      "estimated_minutes": 21
+    },
+    {
+      "page": 47,
+      "title": "Powers",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@3d755c005448471f9c7dac638e1ea92e",
+      "html_word_count": 1749,
+      "video_count": 2,
+      "video_duration_seconds": 862,
+      "video_duration_minutes": 14.37,
+      "interactive_count": 1,
+      "estimated_minutes": 26
+    },
+    {
+      "page": 48,
+      "title": "Limitations",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@d1095f6718d6446393d856cb8fa19bf5",
+      "html_word_count": 1427,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 49,
+      "title": "Policies",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@c7f876dca8c5487485b21032394ea461",
+      "html_word_count": 2337,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 14
+    },
+    {
+      "page": 50,
+      "title": "Transitions",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@663c62260d474e69abb9dfff596f6685",
+      "html_word_count": 2980,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 17
+    },
+    {
+      "page": 51,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@68876c6522c14312933a20ac855a2ef8",
+      "html_word_count": 498,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 7
+    },
+    {
+      "page": 52,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@6617e3725da0440093fe0478543775bd",
+      "html_word_count": 328,
+      "video_count": 1,
+      "video_duration_seconds": 1333,
+      "video_duration_minutes": 22.22,
+      "interactive_count": 0,
+      "estimated_minutes": 24
+    },
+    {
+      "page": 53,
+      "title": "Evolution",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@f0f0fc8205b242e5ade615c90983818c",
+      "html_word_count": 1654,
+      "video_count": 2,
+      "video_duration_seconds": 559,
+      "video_duration_minutes": 9.32,
+      "interactive_count": 1,
+      "estimated_minutes": 21
+    },
+    {
+      "page": 54,
+      "title": "Interpretation",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@b71b8fb2e5e54341a4137a7a708ec0d8",
+      "html_word_count": 3447,
+      "video_count": 3,
+      "video_duration_seconds": 1387,
+      "video_duration_minutes": 23.12,
+      "interactive_count": 1,
+      "estimated_minutes": 42
+    },
+    {
+      "page": 55,
+      "title": "Three Tiers",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@b31e8241cb4f41e2b7a48214a3b6ab07",
+      "html_word_count": 2335,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 14
+    },
+    {
+      "page": 56,
+      "title": "Federalism",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@0c063370cdd0497f92c1055ea7c7ec49",
+      "html_word_count": 1813,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 17
+    },
+    {
+      "page": 57,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@adbef69a91c04003a16c2852453dfd0d",
+      "html_word_count": 548,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 7
+    },
+    {
+      "page": 58,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@d79060b9cdf544b498816c09658e33be",
+      "html_word_count": 321,
+      "video_count": 1,
+      "video_duration_seconds": 637,
+      "video_duration_minutes": 10.62,
+      "interactive_count": 0,
+      "estimated_minutes": 12
+    },
+    {
+      "page": 59,
+      "title": "Federal Powers",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@baaa1101031041ffbaf56da562092d34",
+      "html_word_count": 651,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 8
+    },
+    {
+      "page": 60,
+      "title": "States' Powers",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@8ea8283ab8104247b6df8e6457045fa3",
+      "html_word_count": 300,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 61,
+      "title": "Key Clauses",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@a8894a38d26a4ef0a5952b29bb7522ff",
+      "html_word_count": 390,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 7
+    },
+    {
+      "page": 62,
+      "title": "Key Cases",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@de76184122de47449b02cb4e30d0f5b8",
+      "html_word_count": 431,
+      "video_count": 1,
+      "video_duration_seconds": 240,
+      "video_duration_minutes": 4.0,
+      "interactive_count": 1,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 63,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@d89ecb17f4c54b159e09ae6fd09abb45",
+      "html_word_count": 268,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 64,
+      "title": "Review & Practice Quiz",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@2ca63823ab2147f195e22204fc9a401f",
+      "html_word_count": 232,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 65,
+      "title": "Way to Go!",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@c1ae4fbd99fa49d6bf5c6bd5f1765331",
+      "html_word_count": 26,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 66,
+      "title": "Your Feedback",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@77a1ab08abb94b48ac4c1fc4327d6bdc",
+      "html_word_count": 6,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 67,
+      "title": "Module Overview",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@8d078528ccf34763afc638cc59069632",
+      "html_word_count": 290,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 68,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@ee0bf8e11bfe4390ae52fc211abae23d",
+      "html_word_count": 480,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 2
+    },
+    {
+      "page": 69,
+      "title": "Congress",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@65ebf922092c430084cce1bbb7c2ea5e",
+      "html_word_count": 1197,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 70,
+      "title": "Campaign Finance",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@b572be65a9d94f8b866db29fa753e816",
+      "html_word_count": 1877,
+      "video_count": 2,
+      "video_duration_seconds": 1528,
+      "video_duration_minutes": 25.47,
+      "interactive_count": 1,
+      "estimated_minutes": 38
+    },
+    {
+      "page": 71,
+      "title": "Presidential Elections",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@7c1547d32ccd43a18269b4ccb7b2bb18",
+      "html_word_count": 2215,
+      "video_count": 2,
+      "video_duration_seconds": 2022,
+      "video_duration_minutes": 33.7,
+      "interactive_count": 1,
+      "estimated_minutes": 48
+    },
+    {
+      "page": 72,
+      "title": "Running for Office",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@93efdc9e75894cd9ba814bc1342d60e8",
+      "html_word_count": 1824,
+      "video_count": 1,
+      "video_duration_seconds": 576,
+      "video_duration_minutes": 9.6,
+      "interactive_count": 1,
+      "estimated_minutes": 22
+    },
+    {
+      "page": 73,
+      "title": "Electoral College",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@66bfaaf9664d40d483257c207d05eb92",
+      "html_word_count": 2992,
+      "video_count": 2,
+      "video_duration_seconds": 1020,
+      "video_duration_minutes": 17.0,
+      "interactive_count": 1,
+      "estimated_minutes": 34
+    },
+    {
+      "page": 74,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@c03d0bcbd40144fab101488621947220",
+      "html_word_count": 678,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 8
+    },
+    {
+      "page": 75,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@5364ebbc19ab4376854d5b7fb5fa5703",
+      "html_word_count": 279,
+      "video_count": 1,
+      "video_duration_seconds": 360,
+      "video_duration_minutes": 6.0,
+      "interactive_count": 0,
+      "estimated_minutes": 7
+    },
+    {
+      "page": 76,
+      "title": "Purpose and Strategy",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@86c1ef8ab9724eecb12200a27ad14f5d",
+      "html_word_count": 2364,
+      "video_count": 1,
+      "video_duration_seconds": 1099,
+      "video_duration_minutes": 18.32,
+      "interactive_count": 1,
+      "estimated_minutes": 33
+    },
+    {
+      "page": 77,
+      "title": "Fundraising",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@1fe51b3c65564fed9b102151dd588cd9",
+      "html_word_count": 1249,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 78,
+      "title": "Impact and Influence",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@eb35a1af88f844d8a6c13a2bd8f048b5",
+      "html_word_count": 1294,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 79,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@9f6ad73330dd42f5b7237eb608e86d3c",
+      "html_word_count": 322,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 80,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@48fa2a0d81ae4a8bbfa559581fb2ac3b",
+      "html_word_count": 411,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 2
+    },
+    {
+      "page": 81,
+      "title": "Rights",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@87fb903eac4c42f8bbb8a7db728969ae",
+      "html_word_count": 2087,
+      "video_count": 1,
+      "video_duration_seconds": 813,
+      "video_duration_minutes": 13.55,
+      "interactive_count": 1,
+      "estimated_minutes": 27
+    },
+    {
+      "page": 82,
+      "title": "Registration",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@b7f07aeced144005b589523dcd73ee71",
+      "html_word_count": 1637,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 17
+    },
+    {
+      "page": 83,
+      "title": "Turnout",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@9470c52ecbd44ab39d9776b148389e04",
+      "html_word_count": 4580,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 23
+    },
+    {
+      "page": 84,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@2b0833c622ea40d9be26d9be10120c84",
+      "html_word_count": 342,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 85,
+      "title": "Review & Practice Quiz",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@9b940ca798984c369b72bfe92a01874c",
+      "html_word_count": 217,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 86,
+      "title": "Way to Go!",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@56a04626ae554bdea382e4ffa88c8c06",
+      "html_word_count": 26,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 87,
+      "title": "Module Overview",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@d5939ac77d3146f988758927a074a38f",
+      "html_word_count": 252,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 88,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@18109debaa364968b551e89044a99114",
+      "html_word_count": 607,
+      "video_count": 1,
+      "video_duration_seconds": 728,
+      "video_duration_minutes": 12.13,
+      "interactive_count": 0,
+      "estimated_minutes": 15
+    },
+    {
+      "page": 89,
+      "title": "Civil Rights",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@3bee79143cb7445aa23f70e10dcc85fd",
+      "html_word_count": 1114,
+      "video_count": 1,
+      "video_duration_seconds": 718,
+      "video_duration_minutes": 11.97,
+      "interactive_count": 2,
+      "estimated_minutes": 26
+    },
+    {
+      "page": 90,
+      "title": "Discrimination",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@1cf4cd09955d459f8adf39de3e1eb869",
+      "html_word_count": 1974,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 13
+    },
+    {
+      "page": 91,
+      "title": "The Movement",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@b3e603eb3af94eebaf9b3c49f15f14b0",
+      "html_word_count": 2913,
+      "video_count": 1,
+      "video_duration_seconds": 352,
+      "video_duration_minutes": 5.87,
+      "interactive_count": 1,
+      "estimated_minutes": 23
+    },
+    {
+      "page": 92,
+      "title": "Civil Liberties",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@659297121b424661b4f3fedd98ec3e0a",
+      "html_word_count": 2288,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 19
+    },
+    {
+      "page": 93,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@2a5a2c0385e348df88357bc2c1719c1e",
+      "html_word_count": 394,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 7
+    },
+    {
+      "page": 94,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@0ce4306da8b14fc38c89717200e75391",
+      "html_word_count": 900,
+      "video_count": 1,
+      "video_duration_seconds": 1752,
+      "video_duration_minutes": 29.2,
+      "interactive_count": 0,
+      "estimated_minutes": 33
+    },
+    {
+      "page": 95,
+      "title": "Amendment 1",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@575098497b90457398ad30d916454545",
+      "html_word_count": 252,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 1
+    },
+    {
+      "page": 96,
+      "title": "Freedom of Religion",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@f9d1b2d73896462b8a87cad2a7d0ccdf",
+      "html_word_count": 730,
+      "video_count": 2,
+      "video_duration_seconds": 1669,
+      "video_duration_minutes": 27.82,
+      "interactive_count": 2,
+      "estimated_minutes": 41
+    },
+    {
+      "page": 97,
+      "title": "Freedom of Expression",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@eb7fae41265c411ca13fbe8098d7e2ce",
+      "html_word_count": 207,
+      "video_count": 2,
+      "video_duration_seconds": 1385,
+      "video_duration_minutes": 23.08,
+      "interactive_count": 2,
+      "estimated_minutes": 34
+    },
+    {
+      "page": 98,
+      "title": "Amendments 2-4",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@922e92fd10f4467a91fad1e14502cd68",
+      "html_word_count": 1987,
+      "video_count": 1,
+      "video_duration_seconds": 511,
+      "video_duration_minutes": 8.52,
+      "interactive_count": 1,
+      "estimated_minutes": 21
+    },
+    {
+      "page": 99,
+      "title": "Amendments 5-7",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@b47ee7d2b3594da4b2af2178d8ca549d",
+      "html_word_count": 2317,
+      "video_count": 1,
+      "video_duration_seconds": 277,
+      "video_duration_minutes": 4.62,
+      "interactive_count": 2,
+      "estimated_minutes": 24
+    },
+    {
+      "page": 100,
+      "title": "Amendment 8",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@b29fad97720445358ce34f8482e61ffa",
+      "html_word_count": 1177,
+      "video_count": 1,
+      "video_duration_seconds": 76,
+      "video_duration_minutes": 1.27,
+      "interactive_count": 1,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 101,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@ec80ad058aa4470cbb912ec123ae722e",
+      "html_word_count": 684,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 8
+    },
+    {
+      "page": 102,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@367645dcc6a74dabbbc9ab7a36a1888d",
+      "html_word_count": 235,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 1
+    },
+    {
+      "page": 103,
+      "title": "The 14th Amendment",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@63c34c6b103e428fbe9d3cbc3953d3f4",
+      "html_word_count": 1050,
+      "video_count": 2,
+      "video_duration_seconds": 923,
+      "video_duration_minutes": 15.38,
+      "interactive_count": 2,
+      "estimated_minutes": 30
+    },
+    {
+      "page": 104,
+      "title": "Separate but Equal",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@74135218b93b4b6b92b7bd0a85c85625",
+      "html_word_count": 1398,
+      "video_count": 2,
+      "video_duration_seconds": 592,
+      "video_duration_minutes": 9.87,
+      "interactive_count": 1,
+      "estimated_minutes": 20
+    },
+    {
+      "page": 105,
+      "title": "Marriage Equality",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@c7a19c9419174bd9a70c78047e623728",
+      "html_word_count": 597,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 7
+    },
+    {
+      "page": 106,
+      "title": "Equal Rights",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@4d3881432858482491d30f5526b31363",
+      "html_word_count": 824,
+      "video_count": 2,
+      "video_duration_seconds": 1108,
+      "video_duration_minutes": 18.47,
+      "interactive_count": 1,
+      "estimated_minutes": 27
+    },
+    {
+      "page": 107,
+      "title": "Women's Rights",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@13059c79c4364d169e879915f58a66fa",
+      "html_word_count": 3996,
+      "video_count": 3,
+      "video_duration_seconds": 1313,
+      "video_duration_minutes": 21.88,
+      "interactive_count": 1,
+      "estimated_minutes": 43
+    },
+    {
+      "page": 108,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@3ae68faab88b4f75988eac9f20fa257a",
+      "html_word_count": 296,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 109,
+      "title": "Review & Practice Quiz",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@8af3b22331ce4996a2f2262b96f54b8c",
+      "html_word_count": 225,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 110,
+      "title": "Way to Go!",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@f379c33b41f94033bcc37d943304b3c0",
+      "html_word_count": 26,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 111,
+      "title": "Module Overview",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@117b50f8ed52472c91de1740651066a0",
+      "html_word_count": 283,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 112,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@8030167fe0dc4c99b42b2436e7ff5c5b",
+      "html_word_count": 518,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 2
+    },
+    {
+      "page": 113,
+      "title": "...On Society",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@88bfda92312d41e0b54d7490aa75a69d",
+      "html_word_count": 613,
+      "video_count": 1,
+      "video_duration_seconds": 1078,
+      "video_duration_minutes": 17.97,
+      "interactive_count": 1,
+      "estimated_minutes": 25
+    },
+    {
+      "page": 114,
+      "title": "...On Citizens",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@37a28c7b71464aa28eb8e62f7e4f66b4",
+      "html_word_count": 422,
+      "video_count": 1,
+      "video_duration_seconds": 612,
+      "video_duration_minutes": 10.2,
+      "interactive_count": 2,
+      "estimated_minutes": 22
+    },
+    {
+      "page": 115,
+      "title": "...On Campaigns",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@869f4905e9b143388ca015e3a3f99cfa",
+      "html_word_count": 1142,
+      "video_count": 1,
+      "video_duration_seconds": 61,
+      "video_duration_minutes": 1.02,
+      "interactive_count": 1,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 116,
+      "title": "...On Governance",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@88fc4d42f65d4a97adc508bbbec93ef1",
+      "html_word_count": 258,
+      "video_count": 1,
+      "video_duration_seconds": 524,
+      "video_duration_minutes": 8.73,
+      "interactive_count": 0,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 117,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@19193eae60974d7d8b7315c456b50d0a",
+      "html_word_count": 135,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 118,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@707bf29d32f94b928e7626926b047e12",
+      "html_word_count": 732,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 3
+    },
+    {
+      "page": 119,
+      "title": "A Free Press",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@aaeb802a18f542e48f57c83ed127262b",
+      "html_word_count": 848,
+      "video_count": 1,
+      "video_duration_seconds": 313,
+      "video_duration_minutes": 5.22,
+      "interactive_count": 1,
+      "estimated_minutes": 14
+    },
+    {
+      "page": 120,
+      "title": "FCC Regulations",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@3d3006f6b2214004813520481310f38e",
+      "html_word_count": 1164,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 121,
+      "title": "Government Sources",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@1395e5561bb848c7a3695fae1c31d60a",
+      "html_word_count": 1142,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 122,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@8367417e8cf84dfd82bd1bc160565d21",
+      "html_word_count": 133,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 123,
+      "title": "Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@83a6a71cb7a84e8a8ed2fb3745a0aef3",
+      "html_word_count": 573,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 2
+    },
+    {
+      "page": 124,
+      "title": "Polling",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@f98513e6cd924884bacc1a17e4f242cb",
+      "html_word_count": 3062,
+      "video_count": 2,
+      "video_duration_seconds": 1031,
+      "video_duration_minutes": 17.18,
+      "interactive_count": 1,
+      "estimated_minutes": 34
+    },
+    {
+      "page": 125,
+      "title": "Influencers",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@5ed0d141e24e45bba65062cd512ca1fd",
+      "html_word_count": 1835,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 12
+    },
+    {
+      "page": 126,
+      "title": "Ideologies",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@a726f516a97442c6a72059b3cc549789",
+      "html_word_count": 952,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 14
+    },
+    {
+      "page": 127,
+      "title": "Government Action",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@4f0403d52cd34995b0b25706281f754c",
+      "html_word_count": 1065,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 9
+    },
+    {
+      "page": 128,
+      "title": "Summary & Lightning Round",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@a24f58d7c67e464c9e575764dc38d132",
+      "html_word_count": 190,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 129,
+      "title": "Review & Practice Quiz",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@3e1d8462458e484f80c823a4c4cd0dc9",
+      "html_word_count": 205,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 130,
+      "title": "Way to Go!",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@fa9f1ff57d6a4a65ae68ee06e2e40e53",
+      "html_word_count": 26,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 131,
+      "title": "Course Summary",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@6be30efd3b39443bba7073a99a84e152",
+      "html_word_count": 407,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 2
+    },
+    {
+      "page": 132,
+      "title": "How Can We Improve?",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@5b27d3953e604afcbfb4e982546f3d4b",
+      "html_word_count": 6,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 10
+    },
+    {
+      "page": 133,
+      "title": "You Did It!",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@c5e57fe07c774b86986f00c63c9553fc",
+      "html_word_count": 0,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 134,
+      "title": "Readiness Check",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@0387a2b777d84416a295520b4830d8ba",
+      "html_word_count": 190,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 135,
+      "title": "PA Introduction",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@78dc7948f15046ccad366d6b90330fb9",
+      "html_word_count": 127,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 6
+    },
+    {
+      "page": 136,
+      "title": "Task 1 Instructions and Rubric",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@988e586a7e99484fb3795b7c1d50a298",
+      "html_word_count": 198,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 137,
+      "title": "Task 1 Submission",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@fae18de829be413cabaed035f47c4ee4",
+      "html_word_count": 43,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 138,
+      "title": "Task 2 Instructions and Rubric",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@5b6bfcde101d45d2ba7237ef6efd26f9",
+      "html_word_count": 225,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 139,
+      "title": "Task 2 Submission",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@b09b0a3dd14d41aa9a26be89d5a19fb0",
+      "html_word_count": 44,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 140,
+      "title": "Task 3 Instructions and Rubric",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@5d9450861cc44f5e824974ac61f83b61",
+      "html_word_count": 164,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 11
+    },
+    {
+      "page": 141,
+      "title": "Task 3 Submission",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@23881bdb6a754a85b344c2ee8e9b9c59",
+      "html_word_count": 46,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 1,
+      "estimated_minutes": 5
+    },
+    {
+      "page": 142,
+      "title": "Page to Hold Reusable Blocks",
+      "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@6259d3cc7dac46d4b53185b7244de027",
+      "html_word_count": 15,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 2,
+      "estimated_minutes": 10
+    }
+  ],
+  "resolved_video_durations": [
+    {
+      "page": 10,
+      "title": "The Social Contract",
+      "source": "youtube",
+      "video_id": "2Co6pNvd9mc",
+      "embed_url": "https://www.youtube.com/embed/2Co6pNvd9mc",
+      "duration_seconds": 571,
+      "video_title": "Contractarianism: Crash Course Philosophy #37"
+    },
+    {
+      "page": 15,
+      "title": "The Origins",
+      "source": "youtube",
+      "video_id": "C6rHSiN0vKk",
+      "embed_url": "https://www.youtube.com/embed/C6rHSiN0vKk",
+      "duration_seconds": 570,
+      "video_title": "The Articles of Confederation - Becoming the United States - Extra History - Part 1"
+    },
+    {
+      "page": 20,
+      "title": "Debate and Compromise",
+      "source": "youtube",
+      "video_id": "lPLA_VPMsUg",
+      "embed_url": "https://www.youtube.com/embed/lPLA_VPMsUg",
+      "duration_seconds": 468,
+      "video_title": "The Articles of Confederation - Ratification - Extra History - Part 2"
+    },
+    {
+      "page": 20,
+      "title": "Debate and Compromise",
+      "source": "youtube",
+      "video_id": "nLvRJpDjxVk",
+      "embed_url": "https://www.youtube.com/embed/nLvRJpDjxVk",
+      "duration_seconds": 605,
+      "video_title": "The Articles of Confederation - Finding Finances - Extra History - Part 3"
+    },
+    {
+      "page": 20,
+      "title": "Debate and Compromise",
+      "source": "youtube",
+      "video_id": "wds6kpbpLlA",
+      "embed_url": "https://www.youtube.com/embed/wds6kpbpLlA",
+      "duration_seconds": 675,
+      "video_title": "The Articles of Confederation - Constitutional Convention - Extra History - Part 4"
+    },
+    {
+      "page": 21,
+      "title": "Slavery and Freedom",
+      "source": "youtube",
+      "video_id": "57xUbch1viI",
+      "embed_url": "https://www.youtube.com/embed/57xUbch1viI",
+      "duration_seconds": 625,
+      "video_title": "The US Constitution, 3/5, and the Slave Trade Clause: Crash Course Black American History #9"
+    },
+    {
+      "page": 25,
+      "title": "Differing Views",
+      "source": "youtube",
+      "video_id": "DnDh9-X12Gc",
+      "embed_url": "https://www.youtube.com/embed/DnDh9-X12Gc",
+      "duration_seconds": 285,
+      "video_title": "Federalists vs Anti-Federalists in Five Minutes"
+    },
+    {
+      "page": 30,
+      "title": "Legislative Branch",
+      "source": "youtube",
+      "video_id": "0bf3CwYCxXw",
+      "embed_url": "https://www.youtube.com/embed/0bf3CwYCxXw",
+      "duration_seconds": 511,
+      "video_title": "Separation of Powers and Checks and Balances: Crash Course Government and Politics #3"
+    },
+    {
+      "page": 30,
+      "title": "Legislative Branch",
+      "source": "youtube",
+      "video_id": "HuFR5XBYLfU",
+      "embed_url": "https://www.youtube.com/embed/HuFR5XBYLfU",
+      "duration_seconds": 230,
+      "video_title": "How is power divided in the United States government? - Belinda Stutzman"
+    },
+    {
+      "page": 31,
+      "title": "Executive Branch",
+      "source": "youtube",
+      "video_id": "oyOf3g-PJ94",
+      "embed_url": "https://www.youtube.com/embed/oyOf3g-PJ94",
+      "duration_seconds": 287,
+      "video_title": "How do executive orders work? - Christina Greer"
+    },
+    {
+      "page": 32,
+      "title": "Judicial Branch",
+      "source": "youtube",
+      "video_id": "mWYFwl93uCM",
+      "embed_url": "https://www.youtube.com/embed/mWYFwl93uCM",
+      "duration_seconds": 480,
+      "video_title": "Judicial Review: Crash Course Government and Politics #21"
+    },
+    {
+      "page": 32,
+      "title": "Judicial Branch",
+      "source": "youtube",
+      "video_id": "QjLcLguoKC4",
+      "embed_url": "https://www.youtube.com/embed/QjLcLguoKC4",
+      "duration_seconds": 434,
+      "video_title": "Judicial Decisions: Crash Course Government and Politics #22"
+    },
+    {
+      "page": 32,
+      "title": "Judicial Branch",
+      "source": "youtube",
+      "video_id": "0xnzGSV66x4",
+      "embed_url": "https://www.youtube.com/embed/0xnzGSV66x4",
+      "duration_seconds": 266,
+      "video_title": "How do US Supreme Court justices get appointed? - Peter Paccone"
+    },
+    {
+      "page": 33,
+      "title": "The Federalist System",
+      "source": "youtube",
+      "video_id": "J0gosGXSgsI",
+      "embed_url": "https://www.youtube.com/embed/J0gosGXSgsI",
+      "duration_seconds": 554,
+      "video_title": "Federalism: Crash Course Government and Politics #4"
+    },
+    {
+      "page": 40,
+      "title": "Powers",
+      "source": "youtube",
+      "video_id": "v67UoLRuH_c",
+      "embed_url": "https://www.youtube.com/embed/v67UoLRuH_c",
+      "duration_seconds": 157,
+      "video_title": "U.S. Federal Budget Process 101"
+    },
+    {
+      "page": 41,
+      "title": "Process",
+      "source": "youtube",
+      "video_id": "evLR90Dx79M",
+      "embed_url": "https://www.youtube.com/embed/evLR90Dx79M",
+      "duration_seconds": 507,
+      "video_title": "Congressional Committees: Crash Course Government and Politics #7"
+    },
+    {
+      "page": 43,
+      "title": "Drawing Districts",
+      "source": "youtube",
+      "video_id": "MnhFm5QVVTo",
+      "embed_url": "https://www.youtube.com/embed/MnhFm5QVVTo",
+      "duration_seconds": 478,
+      "video_title": "Gerrymandering: Crash Course Government and Politics #37"
+    },
+    {
+      "page": 46,
+      "title": "The Presidency",
+      "source": "youtube",
+      "video_id": "xxSvi6JCCfk",
+      "embed_url": "https://www.youtube.com/embed/xxSvi6JCCfk",
+      "duration_seconds": 348,
+      "video_title": "Inside the White House: The Cabinet"
+    },
+    {
+      "page": 47,
+      "title": "Powers",
+      "source": "youtube",
+      "video_id": "5l02sK5LovI",
+      "embed_url": "https://www.youtube.com/embed/5l02sK5LovI",
+      "duration_seconds": 390,
+      "video_title": "Presidential Power: Crash Course Government and Politics #11"
+    },
+    {
+      "page": 47,
+      "title": "Powers",
+      "source": "youtube",
+      "video_id": "fnHb-zyWh14",
+      "embed_url": "https://www.youtube.com/embed/fnHb-zyWh14",
+      "duration_seconds": 472,
+      "video_title": "Presidential Powers 2: Crash Course Government and Politics #12"
+    },
+    {
+      "page": 53,
+      "title": "Evolution",
+      "source": "youtube",
+      "video_id": "elwtj4bNx04",
+      "embed_url": "https://www.youtube.com/embed/elwtj4bNx04",
+      "duration_seconds": 318,
+      "video_title": "Article III and the Creation of a Federal Judiciary"
+    },
+    {
+      "page": 53,
+      "title": "Evolution",
+      "source": "youtube",
+      "video_id": "P2z5GF7MWGg",
+      "embed_url": "https://www.youtube.com/embed/P2z5GF7MWGg",
+      "duration_seconds": 241,
+      "video_title": "The Early Supreme Court"
+    },
+    {
+      "page": 54,
+      "title": "Interpretation",
+      "source": "youtube",
+      "video_id": "uMuqUhMDShs",
+      "embed_url": "https://www.youtube.com/embed/uMuqUhMDShs",
+      "duration_seconds": 421,
+      "video_title": "Constitutional Interpretation & The Supreme Court: American Government Review"
+    },
+    {
+      "page": 54,
+      "title": "Interpretation",
+      "source": "youtube",
+      "video_id": "bgGS0mGqlaw",
+      "embed_url": "https://www.youtube.com/embed/bgGS0mGqlaw",
+      "duration_seconds": 558,
+      "video_title": "McCulloch v  Maryland"
+    },
+    {
+      "page": 54,
+      "title": "Interpretation",
+      "source": "youtube",
+      "video_id": "VgkmQXSntTs",
+      "embed_url": "https://www.youtube.com/embed/VgkmQXSntTs",
+      "duration_seconds": 408,
+      "video_title": "The Common Law and Colonial Legal Precedents"
+    },
+    {
+      "page": 62,
+      "title": "Key Cases",
+      "source": "youtube",
+      "video_id": "V0ST9eVIWFY",
+      "embed_url": "https://www.youtube.com/embed/V0ST9eVIWFY",
+      "duration_seconds": 240,
+      "video_title": "McCulloch v. Maryland | BRI's Homework Help Series"
+    },
+    {
+      "page": 70,
+      "title": "Campaign Finance",
+      "source": "youtube",
+      "video_id": "kcnkgDHU9I8",
+      "embed_url": "https://www.youtube.com/embed/kcnkgDHU9I8",
+      "duration_seconds": 901,
+      "video_title": "Campaign Finance Reform and the Citizens United Supreme Court Decision"
+    },
+    {
+      "page": 72,
+      "title": "Running for Office",
+      "source": "youtube",
+      "video_id": "2A5QlpAyKSQ",
+      "embed_url": "https://www.youtube.com/embed/2A5QlpAyKSQ",
+      "duration_seconds": 576,
+      "video_title": "Political Campaigns: Crash Course Government and Politics #39"
+    },
+    {
+      "page": 73,
+      "title": "Electoral College",
+      "source": "youtube",
+      "video_id": "W9H3gvnN468",
+      "embed_url": "https://www.youtube.com/embed/W9H3gvnN468",
+      "duration_seconds": 321,
+      "video_title": "Does your vote count? The Electoral College explained - Christina Greer"
+    },
+    {
+      "page": 76,
+      "title": "Purpose and Strategy",
+      "source": "youtube",
+      "video_id": "mw2z9lV3W1g",
+      "embed_url": "https://www.youtube.com/embed/mw2z9lV3W1g",
+      "duration_seconds": 1099,
+      "video_title": "We the People, and the Republic we must reclaim | Lawrence Lessig"
+    },
+    {
+      "page": 81,
+      "title": "Rights",
+      "source": "youtube",
+      "video_id": "NqOjj1FCcVY",
+      "embed_url": "https://www.youtube.com/embed/NqOjj1FCcVY",
+      "duration_seconds": 813,
+      "video_title": "There's no such thing as not voting | Eric Liu"
+    },
+    {
+      "page": 89,
+      "title": "Civil Rights",
+      "source": "youtube",
+      "video_id": "S64zRnnn4Po",
+      "embed_url": "https://www.youtube.com/embed/S64zRnnn4Po",
+      "duration_seconds": 718,
+      "video_title": "Civil Rights and the 1950s: Crash Course US History #39"
+    },
+    {
+      "page": 91,
+      "title": "The Movement",
+      "source": "youtube",
+      "video_id": "URxwe6LPvkM",
+      "embed_url": "https://www.youtube.com/embed/URxwe6LPvkM",
+      "duration_seconds": 352,
+      "video_title": "History of the Civil Rights Movement"
+    },
+    {
+      "page": 96,
+      "title": "Freedom of Religion",
+      "source": "youtube",
+      "video_id": "Y8dI1GTWCk4",
+      "embed_url": "https://www.youtube.com/embed/Y8dI1GTWCk4",
+      "duration_seconds": 407,
+      "video_title": "Freedom of Religion: Crash Course Government and Politics #24"
+    },
+    {
+      "page": 97,
+      "title": "Freedom of Expression",
+      "source": "youtube",
+      "video_id": "Zeeq0qaEaLw",
+      "embed_url": "https://youtube.com/embed/Zeeq0qaEaLw",
+      "duration_seconds": 412,
+      "video_title": "Freedom of Speech: Crash Course Government and Politics #25"
+    },
+    {
+      "page": 103,
+      "title": "The 14th Amendment",
+      "source": "youtube",
+      "video_id": "qKK5KVI9_Q8",
+      "embed_url": "https://www.youtube.com/embed/qKK5KVI9_Q8",
+      "duration_seconds": 495,
+      "video_title": "Equal Protection: Crash Course Government and Politics #29"
+    },
+    {
+      "page": 104,
+      "title": "Separate but Equal",
+      "source": "youtube",
+      "video_id": "6BBEz3Ne-zY",
+      "embed_url": "https://www.youtube.com/embed/6BBEz3Ne-zY",
+      "duration_seconds": 318,
+      "video_title": "Separate But Equal for Dummies - United States Constitutional Law & Segregation"
+    },
+    {
+      "page": 104,
+      "title": "Separate but Equal",
+      "source": "youtube",
+      "video_id": "2ka0iFmU7Jk",
+      "embed_url": "https://www.youtube.com/embed/2ka0iFmU7Jk",
+      "duration_seconds": 274,
+      "video_title": "Plessy v. Ferguson | BRI’s Homework Help Series"
+    },
+    {
+      "page": 106,
+      "title": "Equal Rights",
+      "source": "youtube",
+      "video_id": "P9VdyPbbzlI",
+      "embed_url": "https://www.youtube.com/embed/P9VdyPbbzlI",
+      "duration_seconds": 271,
+      "video_title": "The fight for the right to vote in the United States - Nicki Beaman Griffin"
+    },
+    {
+      "page": 107,
+      "title": "Women's Rights",
+      "source": "youtube",
+      "video_id": "HGEMscZE5dY",
+      "embed_url": "https://www.youtube.com/embed/HGEMscZE5dY",
+      "duration_seconds": 810,
+      "video_title": "Women's Suffrage: Crash Course US History #31"
+    },
+    {
+      "page": 107,
+      "title": "Women's Rights",
+      "source": "youtube",
+      "video_id": "u1Rb7TGgsp4",
+      "embed_url": "https://www.youtube.com/embed/u1Rb7TGgsp4",
+      "duration_seconds": 282,
+      "video_title": "Tarana Burke On How The #MeToo Movement Started And Where It’s Headed"
+    },
+    {
+      "page": 113,
+      "title": "...On Society",
+      "source": "youtube",
+      "video_id": "iU1bhHeCkoU",
+      "embed_url": "https://www.youtube.com/embed/iU1bhHeCkoU",
+      "duration_seconds": 1078,
+      "video_title": "How to seek truth in the era of fake news | Christiane Amanpour"
+    },
+    {
+      "page": 114,
+      "title": "...On Citizens",
+      "source": "youtube",
+      "video_id": "09mjATJZJsM",
+      "embed_url": "https://www.youtube.com/embed/09mjATJZJsM",
+      "duration_seconds": 612,
+      "video_title": "No more fake news? Stop polarizing start framing | Baldwin van Gorp | TEDxMaastricht"
+    },
+    {
+      "page": 115,
+      "title": "...On Campaigns",
+      "source": "youtube",
+      "video_id": "-DhkY6d9uqQ",
+      "embed_url": "https://www.youtube.com/embed/-DhkY6d9uqQ",
+      "duration_seconds": 61,
+      "video_title": "1964 Daisy Ad"
+    },
+    {
+      "page": 116,
+      "title": "...On Governance",
+      "source": "youtube",
+      "video_id": "6F0g4N415uw",
+      "embed_url": "https://www.youtube.com/embed/6F0g4N415uw",
+      "duration_seconds": 524,
+      "video_title": "Media Institution: Crash Course Government and Politics #44"
+    },
+    {
+      "page": 119,
+      "title": "A Free Press",
+      "source": "youtube",
+      "video_id": "A-OvJjAw2Jo",
+      "embed_url": "https://www.youtube.com/embed/A-OvJjAw2Jo",
+      "duration_seconds": 313,
+      "video_title": "How free is our freedom of the press? | Trevor Timm"
+    },
+    {
+      "page": 124,
+      "title": "Polling",
+      "source": "youtube",
+      "video_id": "WJLDgb8m3K0",
+      "embed_url": "https://www.youtube.com/embed/WJLDgb8m3K0",
+      "duration_seconds": 590,
+      "video_title": "Public Opinion: Crash Course Government and Politics #33"
+    },
+    {
+      "page": 124,
+      "title": "Polling",
+      "source": "youtube",
+      "video_id": "NflULVECAFQ",
+      "embed_url": "https://www.youtube.com/embed/NflULVECAFQ",
+      "duration_seconds": 441,
+      "video_title": "Shaping Public Opinion: Crash Course Government and Politics #34"
+    },
+    {
+      "page": 2,
+      "title": "Syllabus and Documents",
+      "source": "vimeo",
+      "video_id": "1053165834",
+      "embed_url": "https://player.vimeo.com/video/1053165834?h=98319ae1f2&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479%22",
+      "duration_seconds": 146
+    },
+    {
+      "page": 9,
+      "title": "Age of Enlightenment",
+      "source": "vimeo",
+      "video_id": "812522957",
+      "embed_url": "https://player.vimeo.com/video/812522957?h=86adb01762&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 105
+    },
+    {
+      "page": 10,
+      "title": "The Social Contract",
+      "source": "vimeo",
+      "video_id": "812523552",
+      "embed_url": "https://player.vimeo.com/video/812523552?h=c49662a1a7&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 316
+    },
+    {
+      "page": 11,
+      "title": "The State of Nature",
+      "source": "vimeo",
+      "video_id": "812514522",
+      "embed_url": "https://player.vimeo.com/video/812514522?h=3c798f1ff8&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 323
+    },
+    {
+      "page": 12,
+      "title": "Founding Documents",
+      "source": "vimeo",
+      "video_id": "812537164",
+      "embed_url": "https://player.vimeo.com/video/812537164?h=7af1024dd6&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 183
+    },
+    {
+      "page": 40,
+      "title": "Powers",
+      "source": "vimeo",
+      "video_id": "812555838",
+      "embed_url": "https://player.vimeo.com/video/812555838?h=483cef3bf9&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 1320
+    },
+    {
+      "page": 41,
+      "title": "Process",
+      "source": "vimeo",
+      "video_id": "812555818",
+      "embed_url": "https://player.vimeo.com/video/812555818?h=2514259173&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 1142
+    },
+    {
+      "page": 43,
+      "title": "Drawing Districts",
+      "source": "vimeo",
+      "video_id": "812618579",
+      "embed_url": "https://player.vimeo.com/video/812618579?h=1745dced10&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 757
+    },
+    {
+      "page": 45,
+      "title": "Introduction",
+      "source": "vimeo",
+      "video_id": "812555769",
+      "embed_url": "https://player.vimeo.com/video/812555769?h=45b450da0f&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 1471
+    },
+    {
+      "page": 52,
+      "title": "Introduction",
+      "source": "vimeo",
+      "video_id": "812555712",
+      "embed_url": "https://player.vimeo.com/video/812555712?h=d51ab53131&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 1333
+    },
+    {
+      "page": 58,
+      "title": "Introduction",
+      "source": "vimeo",
+      "video_id": "812555661",
+      "embed_url": "https://player.vimeo.com/video/812555661?h=a3bc5ebd5a&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 637
+    },
+    {
+      "page": 70,
+      "title": "Campaign Finance",
+      "source": "vimeo",
+      "video_id": "813836963",
+      "embed_url": "https://player.vimeo.com/video/813836963?h=1ac9d3f564&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 627
+    },
+    {
+      "page": 71,
+      "title": "Presidential Elections",
+      "source": "vimeo",
+      "video_id": "813837071",
+      "embed_url": "https://player.vimeo.com/video/813837071?h=8b3aac9543&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 897
+    },
+    {
+      "page": 71,
+      "title": "Presidential Elections",
+      "source": "vimeo",
+      "video_id": "813837063",
+      "embed_url": "https://player.vimeo.com/video/813837063?h=57ad817099&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 1125
+    },
+    {
+      "page": 73,
+      "title": "Electoral College",
+      "source": "vimeo",
+      "video_id": "813837038",
+      "embed_url": "https://player.vimeo.com/video/813837038?h=721f9e4223&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 699
+    },
+    {
+      "page": 75,
+      "title": "Introduction",
+      "source": "vimeo",
+      "video_id": "813856635",
+      "embed_url": "https://player.vimeo.com/video/813856635?h=785142a6ca&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 360
+    },
+    {
+      "page": 88,
+      "title": "Introduction",
+      "source": "vimeo",
+      "video_id": "813878832",
+      "embed_url": "https://player.vimeo.com/video/813878832?h=1be8605b8e&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 728
+    },
+    {
+      "page": 94,
+      "title": "Introduction",
+      "source": "vimeo",
+      "video_id": "813876902",
+      "embed_url": "https://player.vimeo.com/video/813876902?h=63d35e92f4&badge=0&autopause=0&player_id=0&app_id=584799",
+      "duration_seconds": 1752
+    },
+    {
+      "page": 96,
+      "title": "Freedom of Religion",
+      "source": "vimeo",
+      "video_id": "813876889",
+      "embed_url": "https://player.vimeo.com/video/813876889?h=56e7e199f7&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 1262
+    },
+    {
+      "page": 97,
+      "title": "Freedom of Expression",
+      "source": "vimeo",
+      "video_id": "813876866",
+      "embed_url": "https://player.vimeo.com/video/813876866?h=31f6b39ff9&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 973
+    },
+    {
+      "page": 98,
+      "title": "Amendments 2-4",
+      "source": "vimeo",
+      "video_id": "814982313",
+      "embed_url": "https://player.vimeo.com/video/814982313?h=0a063c7bfa&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 511
+    },
+    {
+      "page": 99,
+      "title": "Amendments 5-7",
+      "source": "vimeo",
+      "video_id": "814986564",
+      "embed_url": "https://player.vimeo.com/video/814986564?h=c5e4af06b2&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 277
+    },
+    {
+      "page": 100,
+      "title": "Amendment 8",
+      "source": "vimeo",
+      "video_id": "814987016",
+      "embed_url": "https://player.vimeo.com/video/814987016?h=3bfcad895f&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 76
+    },
+    {
+      "page": 103,
+      "title": "The 14th Amendment",
+      "source": "vimeo",
+      "video_id": "814982613",
+      "embed_url": "https://player.vimeo.com/video/814982613?h=eb0d0ea733&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 428
+    },
+    {
+      "page": 106,
+      "title": "Equal Rights",
+      "source": "vimeo",
+      "video_id": "815485047",
+      "embed_url": "https://player.vimeo.com/video/815485047?h=94cb53d9ac&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 837
+    },
+    {
+      "page": 107,
+      "title": "Women's Rights",
+      "source": "vimeo",
+      "video_id": "815451277",
+      "embed_url": "https://player.vimeo.com/video/815451277?h=e92c6b569f&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 221
+    }
+  ]
+}
