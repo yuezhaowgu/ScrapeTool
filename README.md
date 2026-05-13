@@ -44,14 +44,14 @@ Results are saved to `course_summary.json` after each stage (so nothing is lost 
 Total estimated time is calculated per page and for the whole course:
 
 ```
-estimated_minutes = (html_words / 250) + (video_seconds / 60) + (interactive_count × 5)
+estimated_minutes = (html_words / 250) + (video_seconds / 60) + (interactive_count × 3)
 ```
 
 | Element | Rate |
 |---------|------|
 | HTML text | 250 words per minute reading speed |
 | Video | Actual duration (fetched from YouTube/Vimeo) |
-| Interactive blocks | 5 minutes each (flat estimate) |
+| Interactive blocks | 3 minutes each (flat estimate) |
 
 These rates are configurable at the top of `scrape.py` (`WORDS_PER_MINUTE`, `MINUTES_PER_INTERACTIVE`).
 
