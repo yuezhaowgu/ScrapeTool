@@ -54,3 +54,53 @@ estimated_minutes = (html_words / 250) + (video_seconds / 60) + (interactive_cou
 | Interactive blocks | 5 minutes each (flat estimate) |
 
 These rates are configurable at the top of `scrape.py` (`WORDS_PER_MINUTE`, `MINUTES_PER_INTERACTIVE`).
+
+## Concurrency Workflow
+
+The scraper uses a **ThreadPool with 5 workers** in each stage, but the weight of each worker varies:
+
+![Concurrency model per stage](concurrency.svg)
+
+### Stage 1 — Page Scraping (heavy workers)
+
+```
+Queue of URLs (from outline page) → ThreadPool (5 workers) → Browser + context per worker
+```
+
+- Each worker launches its own Chromium browser context
+- Workers pull URLs from a shared queue and navigate to each page
+- Each browser extracts: HTML word counts, video URLs, and interactive block types
+- This is the heaviest stage — each worker holds a full browser instance
+
+### Stage 2 — YouTube Lookups (light workers)
+
+```
+YouTube video IDs (from stage 1) → ThreadPool (5 workers) → yt-dlp call per thread
+```
+
+- Pure network I/O — no browser needed
+- Each thread calls `yt-dlp` to fetch video metadata (duration)
+- Lightweight: threads spend most time waiting on network responses
+
+### Stage 3 — Vimeo Lookups (heavy workers)
+
+```
+Vimeo video IDs (from stage 1) → ThreadPool (5 workers) → Browser + iframe per worker
+```
+
+- Each worker launches a browser and embeds a Vimeo player iframe
+- Uses the `postMessage` API handshake to query the Vimeo player for duration
+- Requires the authenticated WGU domain as the host page (Vimeo restricts embed access)
+- Heavy like Stage 1 — each worker holds a browser instance
+
+### Why threads work here
+
+Stages 1 and 3 spend most of their time in network/render waits — the Python threads sit idle while browsers do the actual work. The GIL isn't a bottleneck because the CPU-bound portion is negligible compared to I/O wait time.
+
+### Diagram Legend (`concurrency.svg`)
+
+| Color | Meaning |
+|-------|---------|
+| Purple | Thread pool (Python `concurrent.futures.ThreadPoolExecutor`) |
+| Orange | Heavy worker — full Chromium browser instance |
+| Green | Light worker — network-only call (no browser) |
