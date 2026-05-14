@@ -1,4 +1,4 @@
-# ScrapeTool
+# CourseTimer
 
 Scrapes course pages from WGU's authoring studio and estimates total study time by analyzing HTML text, videos, and interactive elements.
 
