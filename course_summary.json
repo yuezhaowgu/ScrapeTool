@@ -1,27 +1,27 @@
 {
   "estimation_rates": {
     "words_per_minute": 250,
-    "minutes_per_interactive": 5
+    "minutes_per_interactive": 3
   },
   "course_totals": {
     "pages_scraped": 142,
-    "html_word_count": 132707,
-    "video_count": 74,
-    "video_duration_seconds": 41273,
-    "video_duration_minutes": 687.88,
-    "video_duration_hours": 11.46,
-    "interactive_count": 146,
-    "estimated_minutes": 1949,
-    "estimated_hours": 32.48
+    "html_word_count": 130691,
+    "video_count": 72,
+    "video_duration_seconds": 40350,
+    "video_duration_minutes": 672.5,
+    "video_duration_hours": 11.21,
+    "interactive_count": 139,
+    "estimated_minutes": 1612,
+    "estimated_hours": 26.87
   },
   "video_sources": {
-    "vimeo": 26,
-    "youtube": 48
+    "vimeo": 25,
+    "youtube": 47
   },
   "interactive_types": {
     "lti_consumer": 18,
-    "embedded_iframe": 30,
-    "problem": 93,
+    "embedded_iframe": 27,
+    "problem": 89,
     "ibl-wgu-performance-xblock": 3,
     "likert": 1,
     "split_test": 1
@@ -48,7 +48,7 @@
       "video_duration_seconds": 146,
       "video_duration_minutes": 2.43,
       "interactive_count": 3,
-      "estimated_minutes": 20
+      "estimated_minutes": 14
     },
     {
       "page": 3,
@@ -59,7 +59,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 4,
@@ -70,18 +70,19 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 10
+      "estimated_minutes": 6
     },
     {
       "page": 5,
-      "title": "Help Center",
+      "title": "",
       "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@df96ac41395d4f43a747fac0cbb87bde",
-      "html_word_count": 6,
+      "html_word_count": 0,
       "video_count": 0,
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
-      "interactive_count": 1,
-      "estimated_minutes": 5
+      "interactive_count": 0,
+      "estimated_minutes": 0,
+      "error": "no_content"
     },
     {
       "page": 6,
@@ -103,7 +104,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 7
+      "estimated_minutes": 5
     },
     {
       "page": 8,
@@ -125,7 +126,7 @@
       "video_duration_seconds": 105,
       "video_duration_minutes": 1.75,
       "interactive_count": 1,
-      "estimated_minutes": 13
+      "estimated_minutes": 11
     },
     {
       "page": 10,
@@ -136,7 +137,7 @@
       "video_duration_seconds": 887,
       "video_duration_minutes": 14.78,
       "interactive_count": 1,
-      "estimated_minutes": 26
+      "estimated_minutes": 24
     },
     {
       "page": 11,
@@ -147,7 +148,7 @@
       "video_duration_seconds": 323,
       "video_duration_minutes": 5.38,
       "interactive_count": 1,
-      "estimated_minutes": 13
+      "estimated_minutes": 11
     },
     {
       "page": 12,
@@ -158,7 +159,7 @@
       "video_duration_seconds": 183,
       "video_duration_minutes": 3.05,
       "interactive_count": 1,
-      "estimated_minutes": 16
+      "estimated_minutes": 14
     },
     {
       "page": 13,
@@ -169,7 +170,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 7
+      "estimated_minutes": 5
     },
     {
       "page": 14,
@@ -191,7 +192,7 @@
       "video_duration_seconds": 570,
       "video_duration_minutes": 9.5,
       "interactive_count": 1,
-      "estimated_minutes": 16
+      "estimated_minutes": 14
     },
     {
       "page": 16,
@@ -202,7 +203,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 13
+      "estimated_minutes": 9
     },
     {
       "page": 17,
@@ -213,7 +214,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 14
+      "estimated_minutes": 10
     },
     {
       "page": 18,
@@ -224,7 +225,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 19,
@@ -246,7 +247,7 @@
       "video_duration_seconds": 1748,
       "video_duration_minutes": 29.13,
       "interactive_count": 1,
-      "estimated_minutes": 43
+      "estimated_minutes": 41
     },
     {
       "page": 21,
@@ -257,7 +258,7 @@
       "video_duration_seconds": 625,
       "video_duration_minutes": 10.42,
       "interactive_count": 1,
-      "estimated_minutes": 19
+      "estimated_minutes": 17
     },
     {
       "page": 22,
@@ -268,7 +269,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 9
+      "estimated_minutes": 7
     },
     {
       "page": 23,
@@ -279,7 +280,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 24,
@@ -301,7 +302,7 @@
       "video_duration_seconds": 285,
       "video_duration_minutes": 4.75,
       "interactive_count": 1,
-      "estimated_minutes": 17
+      "estimated_minutes": 15
     },
     {
       "page": 26,
@@ -312,7 +313,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 11
+      "estimated_minutes": 9
     },
     {
       "page": 27,
@@ -323,7 +324,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 8
+      "estimated_minutes": 6
     },
     {
       "page": 28,
@@ -334,7 +335,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 29,
@@ -356,7 +357,7 @@
       "video_duration_seconds": 741,
       "video_duration_minutes": 12.35,
       "interactive_count": 1,
-      "estimated_minutes": 21
+      "estimated_minutes": 19
     },
     {
       "page": 31,
@@ -367,7 +368,7 @@
       "video_duration_seconds": 287,
       "video_duration_minutes": 4.78,
       "interactive_count": 1,
-      "estimated_minutes": 15
+      "estimated_minutes": 13
     },
     {
       "page": 32,
@@ -378,7 +379,7 @@
       "video_duration_seconds": 1180,
       "video_duration_minutes": 19.67,
       "interactive_count": 1,
-      "estimated_minutes": 29
+      "estimated_minutes": 27
     },
     {
       "page": 33,
@@ -389,18 +390,19 @@
       "video_duration_seconds": 554,
       "video_duration_minutes": 9.23,
       "interactive_count": 1,
-      "estimated_minutes": 25
+      "estimated_minutes": 23
     },
     {
       "page": 34,
-      "title": "Summary & Lightning Round",
+      "title": "",
       "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@61c762e8c8e045e08f212eadda6135de",
-      "html_word_count": 396,
+      "html_word_count": 0,
       "video_count": 0,
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
-      "interactive_count": 1,
-      "estimated_minutes": 7
+      "interactive_count": 0,
+      "estimated_minutes": 0,
+      "error": "no_content"
     },
     {
       "page": 35,
@@ -422,7 +424,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 10
+      "estimated_minutes": 6
     },
     {
       "page": 37,
@@ -433,7 +435,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 38,
@@ -444,7 +446,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 39,
@@ -466,7 +468,7 @@
       "video_duration_seconds": 1477,
       "video_duration_minutes": 24.62,
       "interactive_count": 1,
-      "estimated_minutes": 43
+      "estimated_minutes": 41
     },
     {
       "page": 41,
@@ -477,7 +479,7 @@
       "video_duration_seconds": 1649,
       "video_duration_minutes": 27.48,
       "interactive_count": 1,
-      "estimated_minutes": 41
+      "estimated_minutes": 39
     },
     {
       "page": 42,
@@ -488,7 +490,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 13
+      "estimated_minutes": 11
     },
     {
       "page": 43,
@@ -499,18 +501,19 @@
       "video_duration_seconds": 1235,
       "video_duration_minutes": 20.58,
       "interactive_count": 1,
-      "estimated_minutes": 33
+      "estimated_minutes": 31
     },
     {
       "page": 44,
-      "title": "Summary & Lightning Round",
+      "title": "",
       "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@99476c389c3a4390828e2cacb2223613",
-      "html_word_count": 359,
+      "html_word_count": 0,
       "video_count": 0,
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
-      "interactive_count": 1,
-      "estimated_minutes": 6
+      "interactive_count": 0,
+      "estimated_minutes": 0,
+      "error": "no_content"
     },
     {
       "page": 45,
@@ -532,7 +535,7 @@
       "video_duration_seconds": 348,
       "video_duration_minutes": 5.8,
       "interactive_count": 1,
-      "estimated_minutes": 21
+      "estimated_minutes": 19
     },
     {
       "page": 47,
@@ -543,7 +546,7 @@
       "video_duration_seconds": 862,
       "video_duration_minutes": 14.37,
       "interactive_count": 1,
-      "estimated_minutes": 26
+      "estimated_minutes": 24
     },
     {
       "page": 48,
@@ -554,7 +557,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 11
+      "estimated_minutes": 9
     },
     {
       "page": 49,
@@ -565,7 +568,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 14
+      "estimated_minutes": 12
     },
     {
       "page": 50,
@@ -576,7 +579,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 17
+      "estimated_minutes": 15
     },
     {
       "page": 51,
@@ -587,7 +590,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 7
+      "estimated_minutes": 5
     },
     {
       "page": 52,
@@ -609,7 +612,7 @@
       "video_duration_seconds": 559,
       "video_duration_minutes": 9.32,
       "interactive_count": 1,
-      "estimated_minutes": 21
+      "estimated_minutes": 19
     },
     {
       "page": 54,
@@ -620,7 +623,7 @@
       "video_duration_seconds": 1387,
       "video_duration_minutes": 23.12,
       "interactive_count": 1,
-      "estimated_minutes": 42
+      "estimated_minutes": 40
     },
     {
       "page": 55,
@@ -631,7 +634,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 14
+      "estimated_minutes": 12
     },
     {
       "page": 56,
@@ -642,7 +645,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 17
+      "estimated_minutes": 13
     },
     {
       "page": 57,
@@ -653,7 +656,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 7
+      "estimated_minutes": 5
     },
     {
       "page": 58,
@@ -675,7 +678,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 8
+      "estimated_minutes": 6
     },
     {
       "page": 60,
@@ -686,7 +689,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 61,
@@ -697,7 +700,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 7
+      "estimated_minutes": 5
     },
     {
       "page": 62,
@@ -708,7 +711,7 @@
       "video_duration_seconds": 240,
       "video_duration_minutes": 4.0,
       "interactive_count": 1,
-      "estimated_minutes": 11
+      "estimated_minutes": 9
     },
     {
       "page": 63,
@@ -719,7 +722,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 11
+      "estimated_minutes": 7
     },
     {
       "page": 64,
@@ -730,7 +733,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 11
+      "estimated_minutes": 7
     },
     {
       "page": 65,
@@ -741,7 +744,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 66,
@@ -752,7 +755,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 10
+      "estimated_minutes": 6
     },
     {
       "page": 67,
@@ -763,7 +766,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 68,
@@ -785,7 +788,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 10
+      "estimated_minutes": 8
     },
     {
       "page": 70,
@@ -796,7 +799,7 @@
       "video_duration_seconds": 1528,
       "video_duration_minutes": 25.47,
       "interactive_count": 1,
-      "estimated_minutes": 38
+      "estimated_minutes": 36
     },
     {
       "page": 71,
@@ -807,7 +810,7 @@
       "video_duration_seconds": 2022,
       "video_duration_minutes": 33.7,
       "interactive_count": 1,
-      "estimated_minutes": 48
+      "estimated_minutes": 46
     },
     {
       "page": 72,
@@ -818,7 +821,7 @@
       "video_duration_seconds": 576,
       "video_duration_minutes": 9.6,
       "interactive_count": 1,
-      "estimated_minutes": 22
+      "estimated_minutes": 20
     },
     {
       "page": 73,
@@ -829,7 +832,7 @@
       "video_duration_seconds": 1020,
       "video_duration_minutes": 17.0,
       "interactive_count": 1,
-      "estimated_minutes": 34
+      "estimated_minutes": 32
     },
     {
       "page": 74,
@@ -840,7 +843,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 8
+      "estimated_minutes": 6
     },
     {
       "page": 75,
@@ -862,7 +865,7 @@
       "video_duration_seconds": 1099,
       "video_duration_minutes": 18.32,
       "interactive_count": 1,
-      "estimated_minutes": 33
+      "estimated_minutes": 31
     },
     {
       "page": 77,
@@ -873,7 +876,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 10
+      "estimated_minutes": 8
     },
     {
       "page": 78,
@@ -884,7 +887,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 10
+      "estimated_minutes": 8
     },
     {
       "page": 79,
@@ -895,7 +898,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 80,
@@ -917,7 +920,7 @@
       "video_duration_seconds": 813,
       "video_duration_minutes": 13.55,
       "interactive_count": 1,
-      "estimated_minutes": 27
+      "estimated_minutes": 25
     },
     {
       "page": 82,
@@ -928,7 +931,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 17
+      "estimated_minutes": 13
     },
     {
       "page": 83,
@@ -939,7 +942,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 23
+      "estimated_minutes": 21
     },
     {
       "page": 84,
@@ -950,7 +953,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 85,
@@ -961,7 +964,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 11
+      "estimated_minutes": 7
     },
     {
       "page": 86,
@@ -972,7 +975,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 87,
@@ -983,7 +986,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 88,
@@ -1005,7 +1008,7 @@
       "video_duration_seconds": 718,
       "video_duration_minutes": 11.97,
       "interactive_count": 2,
-      "estimated_minutes": 26
+      "estimated_minutes": 22
     },
     {
       "page": 90,
@@ -1016,7 +1019,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 13
+      "estimated_minutes": 11
     },
     {
       "page": 91,
@@ -1027,7 +1030,7 @@
       "video_duration_seconds": 352,
       "video_duration_minutes": 5.87,
       "interactive_count": 1,
-      "estimated_minutes": 23
+      "estimated_minutes": 21
     },
     {
       "page": 92,
@@ -1038,7 +1041,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 19
+      "estimated_minutes": 15
     },
     {
       "page": 93,
@@ -1049,7 +1052,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 7
+      "estimated_minutes": 5
     },
     {
       "page": 94,
@@ -1082,7 +1085,7 @@
       "video_duration_seconds": 1669,
       "video_duration_minutes": 27.82,
       "interactive_count": 2,
-      "estimated_minutes": 41
+      "estimated_minutes": 37
     },
     {
       "page": 97,
@@ -1093,7 +1096,7 @@
       "video_duration_seconds": 1385,
       "video_duration_minutes": 23.08,
       "interactive_count": 2,
-      "estimated_minutes": 34
+      "estimated_minutes": 30
     },
     {
       "page": 98,
@@ -1104,7 +1107,7 @@
       "video_duration_seconds": 511,
       "video_duration_minutes": 8.52,
       "interactive_count": 1,
-      "estimated_minutes": 21
+      "estimated_minutes": 19
     },
     {
       "page": 99,
@@ -1115,7 +1118,7 @@
       "video_duration_seconds": 277,
       "video_duration_minutes": 4.62,
       "interactive_count": 2,
-      "estimated_minutes": 24
+      "estimated_minutes": 20
     },
     {
       "page": 100,
@@ -1126,7 +1129,7 @@
       "video_duration_seconds": 76,
       "video_duration_minutes": 1.27,
       "interactive_count": 1,
-      "estimated_minutes": 11
+      "estimated_minutes": 9
     },
     {
       "page": 101,
@@ -1137,7 +1140,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 8
+      "estimated_minutes": 6
     },
     {
       "page": 102,
@@ -1152,14 +1155,15 @@
     },
     {
       "page": 103,
-      "title": "The 14th Amendment",
+      "title": "",
       "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@63c34c6b103e428fbe9d3cbc3953d3f4",
-      "html_word_count": 1050,
-      "video_count": 2,
-      "video_duration_seconds": 923,
-      "video_duration_minutes": 15.38,
-      "interactive_count": 2,
-      "estimated_minutes": 30
+      "html_word_count": 0,
+      "video_count": 0,
+      "video_duration_seconds": 0,
+      "video_duration_minutes": 0.0,
+      "interactive_count": 0,
+      "estimated_minutes": 0,
+      "error": "no_content"
     },
     {
       "page": 104,
@@ -1170,7 +1174,7 @@
       "video_duration_seconds": 592,
       "video_duration_minutes": 9.87,
       "interactive_count": 1,
-      "estimated_minutes": 20
+      "estimated_minutes": 18
     },
     {
       "page": 105,
@@ -1181,7 +1185,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 7
+      "estimated_minutes": 5
     },
     {
       "page": 106,
@@ -1192,7 +1196,7 @@
       "video_duration_seconds": 1108,
       "video_duration_minutes": 18.47,
       "interactive_count": 1,
-      "estimated_minutes": 27
+      "estimated_minutes": 25
     },
     {
       "page": 107,
@@ -1203,7 +1207,7 @@
       "video_duration_seconds": 1313,
       "video_duration_minutes": 21.88,
       "interactive_count": 1,
-      "estimated_minutes": 43
+      "estimated_minutes": 41
     },
     {
       "page": 108,
@@ -1214,7 +1218,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 109,
@@ -1225,7 +1229,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 11
+      "estimated_minutes": 7
     },
     {
       "page": 110,
@@ -1236,7 +1240,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 111,
@@ -1247,7 +1251,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 112,
@@ -1269,7 +1273,7 @@
       "video_duration_seconds": 1078,
       "video_duration_minutes": 17.97,
       "interactive_count": 1,
-      "estimated_minutes": 25
+      "estimated_minutes": 23
     },
     {
       "page": 114,
@@ -1280,7 +1284,7 @@
       "video_duration_seconds": 612,
       "video_duration_minutes": 10.2,
       "interactive_count": 2,
-      "estimated_minutes": 22
+      "estimated_minutes": 18
     },
     {
       "page": 115,
@@ -1291,7 +1295,7 @@
       "video_duration_seconds": 61,
       "video_duration_minutes": 1.02,
       "interactive_count": 1,
-      "estimated_minutes": 11
+      "estimated_minutes": 9
     },
     {
       "page": 116,
@@ -1313,7 +1317,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 118,
@@ -1335,7 +1339,7 @@
       "video_duration_seconds": 313,
       "video_duration_minutes": 5.22,
       "interactive_count": 1,
-      "estimated_minutes": 14
+      "estimated_minutes": 12
     },
     {
       "page": 120,
@@ -1346,7 +1350,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 10
+      "estimated_minutes": 8
     },
     {
       "page": 121,
@@ -1357,7 +1361,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 10
+      "estimated_minutes": 8
     },
     {
       "page": 122,
@@ -1368,7 +1372,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 123,
@@ -1390,7 +1394,7 @@
       "video_duration_seconds": 1031,
       "video_duration_minutes": 17.18,
       "interactive_count": 1,
-      "estimated_minutes": 34
+      "estimated_minutes": 32
     },
     {
       "page": 125,
@@ -1401,7 +1405,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 12
+      "estimated_minutes": 10
     },
     {
       "page": 126,
@@ -1412,7 +1416,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 14
+      "estimated_minutes": 10
     },
     {
       "page": 127,
@@ -1423,7 +1427,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 9
+      "estimated_minutes": 7
     },
     {
       "page": 128,
@@ -1434,18 +1438,19 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 129,
-      "title": "Review & Practice Quiz",
+      "title": "",
       "url": "https://studio.learn.authoring.goacademy.wgu.edu/container/block-v1:Academy+C963A+101+type@vertical+block@3e1d8462458e484f80c823a4c4cd0dc9",
-      "html_word_count": 205,
+      "html_word_count": 0,
       "video_count": 0,
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
-      "interactive_count": 2,
-      "estimated_minutes": 11
+      "interactive_count": 0,
+      "estimated_minutes": 0,
+      "error": "no_content"
     },
     {
       "page": 130,
@@ -1456,7 +1461,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 131,
@@ -1478,7 +1483,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 10
+      "estimated_minutes": 6
     },
     {
       "page": 133,
@@ -1489,7 +1494,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 134,
@@ -1500,7 +1505,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 11
+      "estimated_minutes": 7
     },
     {
       "page": 135,
@@ -1511,7 +1516,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 6
+      "estimated_minutes": 4
     },
     {
       "page": 136,
@@ -1522,7 +1527,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 11
+      "estimated_minutes": 7
     },
     {
       "page": 137,
@@ -1533,7 +1538,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 138,
@@ -1544,7 +1549,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 11
+      "estimated_minutes": 7
     },
     {
       "page": 139,
@@ -1555,7 +1560,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 140,
@@ -1566,7 +1571,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 11
+      "estimated_minutes": 7
     },
     {
       "page": 141,
@@ -1577,7 +1582,7 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 1,
-      "estimated_minutes": 5
+      "estimated_minutes": 3
     },
     {
       "page": 142,
@@ -1588,10 +1593,19 @@
       "video_duration_seconds": 0,
       "video_duration_minutes": 0.0,
       "interactive_count": 2,
-      "estimated_minutes": 10
+      "estimated_minutes": 6
     }
   ],
   "resolved_video_durations": [
+    {
+      "page": 20,
+      "title": "Debate and Compromise",
+      "source": "youtube",
+      "video_id": "wds6kpbpLlA",
+      "embed_url": "https://www.youtube.com/embed/wds6kpbpLlA",
+      "duration_seconds": 675,
+      "video_title": "The Articles of Confederation - Constitutional Convention - Extra History - Part 4"
+    },
     {
       "page": 10,
       "title": "The Social Contract",
@@ -1614,15 +1628,6 @@
       "page": 20,
       "title": "Debate and Compromise",
       "source": "youtube",
-      "video_id": "lPLA_VPMsUg",
-      "embed_url": "https://www.youtube.com/embed/lPLA_VPMsUg",
-      "duration_seconds": 468,
-      "video_title": "The Articles of Confederation - Ratification - Extra History - Part 2"
-    },
-    {
-      "page": 20,
-      "title": "Debate and Compromise",
-      "source": "youtube",
       "video_id": "nLvRJpDjxVk",
       "embed_url": "https://www.youtube.com/embed/nLvRJpDjxVk",
       "duration_seconds": 605,
@@ -1632,19 +1637,10 @@
       "page": 20,
       "title": "Debate and Compromise",
       "source": "youtube",
-      "video_id": "wds6kpbpLlA",
-      "embed_url": "https://www.youtube.com/embed/wds6kpbpLlA",
-      "duration_seconds": 675,
-      "video_title": "The Articles of Confederation - Constitutional Convention - Extra History - Part 4"
-    },
-    {
-      "page": 21,
-      "title": "Slavery and Freedom",
-      "source": "youtube",
-      "video_id": "57xUbch1viI",
-      "embed_url": "https://www.youtube.com/embed/57xUbch1viI",
-      "duration_seconds": 625,
-      "video_title": "The US Constitution, 3/5, and the Slave Trade Clause: Crash Course Black American History #9"
+      "video_id": "lPLA_VPMsUg",
+      "embed_url": "https://www.youtube.com/embed/lPLA_VPMsUg",
+      "duration_seconds": 468,
+      "video_title": "The Articles of Confederation - Ratification - Extra History - Part 2"
     },
     {
       "page": 25,
@@ -1663,6 +1659,15 @@
       "embed_url": "https://www.youtube.com/embed/0bf3CwYCxXw",
       "duration_seconds": 511,
       "video_title": "Separation of Powers and Checks and Balances: Crash Course Government and Politics #3"
+    },
+    {
+      "page": 21,
+      "title": "Slavery and Freedom",
+      "source": "youtube",
+      "video_id": "57xUbch1viI",
+      "embed_url": "https://www.youtube.com/embed/57xUbch1viI",
+      "duration_seconds": 625,
+      "video_title": "The US Constitution, 3/5, and the Slave Trade Clause: Crash Course Black American History #9"
     },
     {
       "page": 30,
@@ -1701,13 +1706,13 @@
       "video_title": "Judicial Decisions: Crash Course Government and Politics #22"
     },
     {
-      "page": 32,
-      "title": "Judicial Branch",
+      "page": 40,
+      "title": "Powers",
       "source": "youtube",
-      "video_id": "0xnzGSV66x4",
-      "embed_url": "https://www.youtube.com/embed/0xnzGSV66x4",
-      "duration_seconds": 266,
-      "video_title": "How do US Supreme Court justices get appointed? - Peter Paccone"
+      "video_id": "v67UoLRuH_c",
+      "embed_url": "https://www.youtube.com/embed/v67UoLRuH_c",
+      "duration_seconds": 157,
+      "video_title": "U.S. Federal Budget Process 101"
     },
     {
       "page": 33,
@@ -1719,22 +1724,13 @@
       "video_title": "Federalism: Crash Course Government and Politics #4"
     },
     {
-      "page": 40,
-      "title": "Powers",
+      "page": 32,
+      "title": "Judicial Branch",
       "source": "youtube",
-      "video_id": "v67UoLRuH_c",
-      "embed_url": "https://www.youtube.com/embed/v67UoLRuH_c",
-      "duration_seconds": 157,
-      "video_title": "U.S. Federal Budget Process 101"
-    },
-    {
-      "page": 41,
-      "title": "Process",
-      "source": "youtube",
-      "video_id": "evLR90Dx79M",
-      "embed_url": "https://www.youtube.com/embed/evLR90Dx79M",
-      "duration_seconds": 507,
-      "video_title": "Congressional Committees: Crash Course Government and Politics #7"
+      "video_id": "0xnzGSV66x4",
+      "embed_url": "https://www.youtube.com/embed/0xnzGSV66x4",
+      "duration_seconds": 266,
+      "video_title": "How do US Supreme Court justices get appointed? - Peter Paccone"
     },
     {
       "page": 43,
@@ -1744,6 +1740,15 @@
       "embed_url": "https://www.youtube.com/embed/MnhFm5QVVTo",
       "duration_seconds": 478,
       "video_title": "Gerrymandering: Crash Course Government and Politics #37"
+    },
+    {
+      "page": 41,
+      "title": "Process",
+      "source": "youtube",
+      "video_id": "evLR90Dx79M",
+      "embed_url": "https://www.youtube.com/embed/evLR90Dx79M",
+      "duration_seconds": 507,
+      "video_title": "Congressional Committees: Crash Course Government and Politics #7"
     },
     {
       "page": 46,
@@ -1803,19 +1808,19 @@
       "page": 54,
       "title": "Interpretation",
       "source": "youtube",
-      "video_id": "bgGS0mGqlaw",
-      "embed_url": "https://www.youtube.com/embed/bgGS0mGqlaw",
-      "duration_seconds": 558,
-      "video_title": "McCulloch v  Maryland"
+      "video_id": "VgkmQXSntTs",
+      "embed_url": "https://www.youtube.com/embed/VgkmQXSntTs",
+      "duration_seconds": 408,
+      "video_title": "The Common Law and Colonial Legal Precedents"
     },
     {
       "page": 54,
       "title": "Interpretation",
       "source": "youtube",
-      "video_id": "VgkmQXSntTs",
-      "embed_url": "https://www.youtube.com/embed/VgkmQXSntTs",
-      "duration_seconds": 408,
-      "video_title": "The Common Law and Colonial Legal Precedents"
+      "video_id": "bgGS0mGqlaw",
+      "embed_url": "https://www.youtube.com/embed/bgGS0mGqlaw",
+      "duration_seconds": 558,
+      "video_title": "McCulloch v  Maryland"
     },
     {
       "page": 62,
@@ -1881,15 +1886,6 @@
       "video_title": "Civil Rights and the 1950s: Crash Course US History #39"
     },
     {
-      "page": 91,
-      "title": "The Movement",
-      "source": "youtube",
-      "video_id": "URxwe6LPvkM",
-      "embed_url": "https://www.youtube.com/embed/URxwe6LPvkM",
-      "duration_seconds": 352,
-      "video_title": "History of the Civil Rights Movement"
-    },
-    {
       "page": 96,
       "title": "Freedom of Religion",
       "source": "youtube",
@@ -1899,6 +1895,15 @@
       "video_title": "Freedom of Religion: Crash Course Government and Politics #24"
     },
     {
+      "page": 91,
+      "title": "The Movement",
+      "source": "youtube",
+      "video_id": "URxwe6LPvkM",
+      "embed_url": "https://www.youtube.com/embed/URxwe6LPvkM",
+      "duration_seconds": 352,
+      "video_title": "History of the Civil Rights Movement"
+    },
+    {
       "page": 97,
       "title": "Freedom of Expression",
       "source": "youtube",
@@ -1906,15 +1911,6 @@
       "embed_url": "https://youtube.com/embed/Zeeq0qaEaLw",
       "duration_seconds": 412,
       "video_title": "Freedom of Speech: Crash Course Government and Politics #25"
-    },
-    {
-      "page": 103,
-      "title": "The 14th Amendment",
-      "source": "youtube",
-      "video_id": "qKK5KVI9_Q8",
-      "embed_url": "https://www.youtube.com/embed/qKK5KVI9_Q8",
-      "duration_seconds": 495,
-      "video_title": "Equal Protection: Crash Course Government and Politics #29"
     },
     {
       "page": 104,
@@ -1980,15 +1976,6 @@
       "video_title": "No more fake news? Stop polarizing start framing | Baldwin van Gorp | TEDxMaastricht"
     },
     {
-      "page": 115,
-      "title": "...On Campaigns",
-      "source": "youtube",
-      "video_id": "-DhkY6d9uqQ",
-      "embed_url": "https://www.youtube.com/embed/-DhkY6d9uqQ",
-      "duration_seconds": 61,
-      "video_title": "1964 Daisy Ad"
-    },
-    {
       "page": 116,
       "title": "...On Governance",
       "source": "youtube",
@@ -2007,13 +1994,13 @@
       "video_title": "How free is our freedom of the press? | Trevor Timm"
     },
     {
-      "page": 124,
-      "title": "Polling",
+      "page": 115,
+      "title": "...On Campaigns",
       "source": "youtube",
-      "video_id": "WJLDgb8m3K0",
-      "embed_url": "https://www.youtube.com/embed/WJLDgb8m3K0",
-      "duration_seconds": 590,
-      "video_title": "Public Opinion: Crash Course Government and Politics #33"
+      "video_id": "-DhkY6d9uqQ",
+      "embed_url": "https://www.youtube.com/embed/-DhkY6d9uqQ",
+      "duration_seconds": 61,
+      "video_title": "1964 Daisy Ad"
     },
     {
       "page": 124,
@@ -2025,12 +2012,13 @@
       "video_title": "Shaping Public Opinion: Crash Course Government and Politics #34"
     },
     {
-      "page": 2,
-      "title": "Syllabus and Documents",
-      "source": "vimeo",
-      "video_id": "1053165834",
-      "embed_url": "https://player.vimeo.com/video/1053165834?h=98319ae1f2&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479%22",
-      "duration_seconds": 146
+      "page": 124,
+      "title": "Polling",
+      "source": "youtube",
+      "video_id": "WJLDgb8m3K0",
+      "embed_url": "https://www.youtube.com/embed/WJLDgb8m3K0",
+      "duration_seconds": 590,
+      "video_title": "Public Opinion: Crash Course Government and Politics #33"
     },
     {
       "page": 9,
@@ -2039,6 +2027,22 @@
       "video_id": "812522957",
       "embed_url": "https://player.vimeo.com/video/812522957?h=86adb01762&badge=0&autopause=0&player_id=0&app_id=58479",
       "duration_seconds": 105
+    },
+    {
+      "page": 2,
+      "title": "Syllabus and Documents",
+      "source": "vimeo",
+      "video_id": "1053165834",
+      "embed_url": "https://player.vimeo.com/video/1053165834?h=98319ae1f2&title=0&byline=0&portrait=0&badge=0&autopause=0&player_id=0&app_id=58479%22",
+      "duration_seconds": 146
+    },
+    {
+      "page": 12,
+      "title": "Founding Documents",
+      "source": "vimeo",
+      "video_id": "812537164",
+      "embed_url": "https://player.vimeo.com/video/812537164?h=7af1024dd6&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 183
     },
     {
       "page": 10,
@@ -2055,14 +2059,6 @@
       "video_id": "812514522",
       "embed_url": "https://player.vimeo.com/video/812514522?h=3c798f1ff8&badge=0&autopause=0&player_id=0&app_id=58479",
       "duration_seconds": 323
-    },
-    {
-      "page": 12,
-      "title": "Founding Documents",
-      "source": "vimeo",
-      "video_id": "812537164",
-      "embed_url": "https://player.vimeo.com/video/812537164?h=7af1024dd6&badge=0&autopause=0&player_id=0&app_id=58479",
-      "duration_seconds": 183
     },
     {
       "page": 40,
@@ -2105,20 +2101,20 @@
       "duration_seconds": 1333
     },
     {
-      "page": 58,
-      "title": "Introduction",
-      "source": "vimeo",
-      "video_id": "812555661",
-      "embed_url": "https://player.vimeo.com/video/812555661?h=a3bc5ebd5a&badge=0&autopause=0&player_id=0&app_id=58479",
-      "duration_seconds": 637
-    },
-    {
       "page": 70,
       "title": "Campaign Finance",
       "source": "vimeo",
       "video_id": "813836963",
       "embed_url": "https://player.vimeo.com/video/813836963?h=1ac9d3f564&badge=0&autopause=0&player_id=0&app_id=58479",
       "duration_seconds": 627
+    },
+    {
+      "page": 58,
+      "title": "Introduction",
+      "source": "vimeo",
+      "video_id": "812555661",
+      "embed_url": "https://player.vimeo.com/video/812555661?h=a3bc5ebd5a&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 637
     },
     {
       "page": 71,
@@ -2153,20 +2149,20 @@
       "duration_seconds": 360
     },
     {
-      "page": 88,
-      "title": "Introduction",
-      "source": "vimeo",
-      "video_id": "813878832",
-      "embed_url": "https://player.vimeo.com/video/813878832?h=1be8605b8e&badge=0&autopause=0&player_id=0&app_id=58479",
-      "duration_seconds": 728
-    },
-    {
       "page": 94,
       "title": "Introduction",
       "source": "vimeo",
       "video_id": "813876902",
       "embed_url": "https://player.vimeo.com/video/813876902?h=63d35e92f4&badge=0&autopause=0&player_id=0&app_id=584799",
       "duration_seconds": 1752
+    },
+    {
+      "page": 88,
+      "title": "Introduction",
+      "source": "vimeo",
+      "video_id": "813878832",
+      "embed_url": "https://player.vimeo.com/video/813878832?h=1be8605b8e&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 728
     },
     {
       "page": 96,
@@ -2193,12 +2189,12 @@
       "duration_seconds": 511
     },
     {
-      "page": 99,
-      "title": "Amendments 5-7",
+      "page": 106,
+      "title": "Equal Rights",
       "source": "vimeo",
-      "video_id": "814986564",
-      "embed_url": "https://player.vimeo.com/video/814986564?h=c5e4af06b2&badge=0&autopause=0&player_id=0&app_id=58479",
-      "duration_seconds": 277
+      "video_id": "815485047",
+      "embed_url": "https://player.vimeo.com/video/815485047?h=94cb53d9ac&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 837
     },
     {
       "page": 100,
@@ -2209,20 +2205,12 @@
       "duration_seconds": 76
     },
     {
-      "page": 103,
-      "title": "The 14th Amendment",
+      "page": 99,
+      "title": "Amendments 5-7",
       "source": "vimeo",
-      "video_id": "814982613",
-      "embed_url": "https://player.vimeo.com/video/814982613?h=eb0d0ea733&badge=0&autopause=0&player_id=0&app_id=58479",
-      "duration_seconds": 428
-    },
-    {
-      "page": 106,
-      "title": "Equal Rights",
-      "source": "vimeo",
-      "video_id": "815485047",
-      "embed_url": "https://player.vimeo.com/video/815485047?h=94cb53d9ac&badge=0&autopause=0&player_id=0&app_id=58479",
-      "duration_seconds": 837
+      "video_id": "814986564",
+      "embed_url": "https://player.vimeo.com/video/814986564?h=c5e4af06b2&badge=0&autopause=0&player_id=0&app_id=58479",
+      "duration_seconds": 277
     },
     {
       "page": 107,

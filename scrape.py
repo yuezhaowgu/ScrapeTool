@@ -8,7 +8,7 @@ from collections import Counter
 # CONFIGURATION
 # ============================================================
 
-COURSE_OUTLINE_URL = "https://studio.learn.authoring.goacademy.wgu.edu/course/course-v1:Academy+C190A+101"
+COURSE_OUTLINE_URL = "https://studio.learn.authoring.goacademy.wgu.edu/course/course-v1:Academy+C963A+101"
 OUTPUT_FILE = "course_summary.json"
 AUTH_FILE = "auth.json"
 
@@ -151,9 +151,24 @@ ANALYZE_BLOCKS_JS = r"""
             });
         }
         if (rawType === 'html') {
-            const text = cleanClone(block).innerText || '';
-            const words = countWords(text);
-            if (words > 0) results.push({ category: 'html', raw_type: rawType, words: words });
+            // Check for activity/case study resource banners — count as interactive
+            const imgs = block.querySelectorAll('img');
+            let isInteractiveBanner = false;
+            for (const img of imgs) {
+                const src = img.getAttribute('src') || '';
+                if (src.includes('resource_banner-generic-activity') ||
+                    src.includes('resource_banner-generic-case_study')) {
+                    isInteractiveBanner = true;
+                    break;
+                }
+            }
+            if (isInteractiveBanner) {
+                results.push({ category: 'interactive', raw_type: 'activity_banner' });
+            } else {
+                const text = cleanClone(block).innerText || '';
+                const words = countWords(text);
+                if (words > 0) results.push({ category: 'html', raw_type: rawType, words: words });
+            }
         }
         else if (rawType !== 'video') {
             results.push({ category: 'interactive', raw_type: rawType });

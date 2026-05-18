@@ -53,6 +53,15 @@ estimated_minutes = (html_words / 250) + (video_seconds / 60) + (interactive_cou
 | Video | Actual duration (fetched from YouTube/Vimeo) |
 | Interactive blocks | 3 minutes each (flat estimate) |
 
+### Activity & Case Study Recognition
+
+HTML blocks containing resource banner images for **activities** or **case studies** are automatically classified as interactive rather than counted as words. The scraper detects these by matching image `src` attributes:
+
+- `resource_banner-generic-activity.png` → interactive
+- `resource_banner-generic-case_study.png` → interactive
+
+These appear in the output with raw type `activity_banner` and contribute 3 minutes each to the time estimate.
+
 These rates are configurable at the top of `scrape.py` (`WORDS_PER_MINUTE`, `MINUTES_PER_INTERACTIVE`).
 
 ## Concurrency Workflow
